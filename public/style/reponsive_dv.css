@@ -1,6 +1,7 @@
 @media screen and (min-width: 1500px) and (min-width: 1920px) {
   #container {
-    margin-top: 160px !important;
+    width: 90% !important;
+    margin-top: 100px !important;
   }
   #container video {
     height: 605px !important;
@@ -30,7 +31,7 @@
     color: #666;
     border-radius: 5px;
     border: 1px solid #ddd;
-    height: 160px !important;
+    height: 180px !important;
     cursor: pointer;
   }
 
