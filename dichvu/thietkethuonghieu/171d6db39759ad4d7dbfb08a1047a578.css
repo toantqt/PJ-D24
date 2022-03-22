@@ -40175,7 +40175,7 @@ body:not(.tve_editor_page) .tve_more_tag {
   content: "\ea93";
 }
 .icon-check1:before {
-  content: "\e90b";
+  content: "✔";
 }
 .icon-share-alt:before {
   content: "\e90f";
@@ -50452,7 +50452,7 @@ body.home
 .module-block-content .section-item .item-content .item-desc ul li:before,
 .service-section .section-item .item-content .item-desc ol li:before,
 .service-section .section-item .item-content .item-desc ul li:before {
-  content: "\e90b";
+  content: "✔";
   font-family: icomoon;
   display: inline-block;
   width: 24px;
@@ -51528,7 +51528,7 @@ body.home
   .item-desc
   ul
   li:before {
-  content: "\e90b";
+  content: "✔";
   font-family: icomoon;
   display: inline-block;
   width: 24px;
@@ -55256,7 +55256,7 @@ div.wpcf7 .ajax-loader.is-active {
   label
   input:checked
   ~ .wpcf7-list-item-label:after {
-  content: "\e90b";
+  content: "✔";
   font-family: icomoon !important;
   position: absolute;
   color: #fdb813;
@@ -56256,7 +56256,7 @@ div.wpcf7 .ajax-loader.is-active {
   position: relative;
 }
 .seo-content ul li:before {
-  content: "\e90b";
+  content: "✔";
   font-family: icomoon;
   display: inline-block;
   width: 18px;
